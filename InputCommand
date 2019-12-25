@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+a="111111111"
+
+echo "Excute command:"
+echo $a
